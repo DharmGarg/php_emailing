@@ -18,12 +18,12 @@ You can use any  mail service as you desire.
 ### Screenshots
 Email:
 
-[email GUI](screenshots2/Screenshot (24).png)
+<img src="/screenshots2/Screenshot (24).png" width="400px">
 
 Send Successfully:
 
-[send successfully](screenshots2/Screenshot (25).png)
+<img src="/screenshots2/Screenshot (25).png" width="400px">
 
 Error:
 
-[error](screenshots2/Screenshot (26).png)
+<img src="/screenshots2/Screenshot (26).png" width="400px">
