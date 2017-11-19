@@ -16,7 +16,7 @@ You can use any  mail service as you desire.
 4. sendmail.php : To Send the email.
 
 ### Screenshots
-Sending Email:
+Email GUI:
 <img src="/screenshots2/Screenshot (24).png" width="=1000px">
 
 Send Successfully:
