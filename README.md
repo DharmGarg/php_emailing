@@ -16,14 +16,11 @@ You can use any  mail service as you desire.
 4. sendmail.php : To Send the email.
 
 ### Screenshots
-Email:
-
+Sending Email:
 <img src="/screenshots2/Screenshot (24).png" width="=1000px">
 
 Send Successfully:
-
 <img src="/screenshots2/Screenshot (25).png" width="1000px">
 
 Error:
-
 <img src="/screenshots2/Screenshot (26).png" width="1000px">
