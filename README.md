@@ -17,10 +17,10 @@ You can use any  mail service as you desire.
 
 ### Screenshots
 Email:
-![email GUI](/screenshots2/Screenshot (24).png)
+![email GUI](screenshots2/Screenshot (24).png)
 
 Send Successfully:
-![send successfully](/screenshots2/Screenshot (25).png)
+![send successfully](screenshots2/Screenshot (25).png)
 
 Error:
-![error](/screenshots2/Screenshot (26).png)
+![error](screenshots2/Screenshot (26).png)
