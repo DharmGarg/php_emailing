@@ -1,4 +1,4 @@
-# rankwatch17_php_emailing
+# php_emailing
 A PHP script that accepts email address, Subject and Messages. Send the Message and Subject to email address using SMTP services like mailgun, mandrill/mailchimp etc. 
 You can use any  mail service as you desire.  
 
